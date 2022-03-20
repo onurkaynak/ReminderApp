@@ -1,0 +1,10 @@
+global using System.Text;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using FluentValidation.AspNetCore;
+global using FluentValidation;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Text.Json.Serialization;
+global using System.Net;
